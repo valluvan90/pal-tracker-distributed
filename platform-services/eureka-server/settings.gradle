@@ -1,0 +1,3 @@
+rootProject.name = "platform-services"
+
+include "platform-services:eureka-server"
